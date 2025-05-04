@@ -1,0 +1,42 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Virtual environments ---
+env/
+venv/
+ENV/
+.venv/
+
+# --- VS Code settings ---
+.vscode/
+
+# --- System files ---
+.DS_Store
+Thumbs.db
+
+# --- LaTeX build files ---
+*.aux
+*.bbl
+*.blg
+*.brf
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# --- PDF or image output (optional: comment out if you want to track them) ---
+# plots/*.png
+# report/*.pdf
