@@ -19,13 +19,13 @@ The goal of this project is to explore and analyze the **level of digital skills
 
 ## 🗂️ Repository Structure
 
-- README.md      # This file
-- LICENSE        # Project license (MIT)
-- .gitignore     # Git ignore file for excluded files/folders
-- code/          # Jupyter Notebook containing all code for data processing and analysis
-- data/          # Dataset used ("Individuals' level of digital skills" from Eurostat)
-- plots/         # Output visualizations (charts used in the report)
-- report/        # Final report (PDF written in LaTeX)
+├── README.md      # This file  
+├── LICENSE        # Project license (MIT)  
+├── .gitignore     # Git ignore file for excluded files/folders  
+├── code/          # Jupyter Notebook containing all code for data processing and analysis  
+├── data/          # Dataset used ("Individuals' level of digital skills" from Eurostat)  
+├── plots/         # Output visualizations (charts used in the report)  
+└── report/        # Final report (PDF written in LaTeX)  
 
 ## 📊 Dataset
 
